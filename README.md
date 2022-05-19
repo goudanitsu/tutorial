@@ -1,4 +1,5 @@
 #Git チュートリアル
 
-- featire-A
-- featire-B
+- feature-A
+- feature-B
+- feature-C
